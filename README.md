@@ -1,5 +1,5 @@
 ## Hi there 👋 Im Zombie (Rob) 
-![Views](https://komarev.com/ghpvc/?username=Dark8909&repo=themelist&color=red)
+![Themes Views](https://komarev.com/ghpvc/?username=Dark8909&repo=themelist&color=red)
  ![](https://komarev.com/ghpvc/?username=Dark8909&color=orange)
 
 
